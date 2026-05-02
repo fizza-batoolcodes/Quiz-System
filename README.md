@@ -1,23 +1,23 @@
-# 🎯 Quiz System (JavaFX)
+#  Quiz System (JavaFX)
 
-## 🚀 Overview
+##  Overview
 A desktop-based quiz application built using JavaFX.
 
-## ✨ Features
+##  Features
 - Secure login system  
 - Interactive quiz interface  
 - Automatic score calculation  
 - Logout functionality  
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java  
 - JavaFX  
 - IntelliJ IDEA  
 
-## ▶ How to Run
+##  How to Run
 1. Open project in IntelliJ IDEA  
 2. Run the Main class  
 3. Start quiz system  
 
-## 👩‍💻 Author
+##  Author
 Fizza Batool
